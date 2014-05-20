@@ -1,0 +1,12 @@
+/bower_components/
+/node_modules/
+.ruby-version
+.htaccess
+Gruntfile.js
+Gemfile
+Gemfile.lock
+Capfile
+bower.json
+config/
+package.json
+src/
